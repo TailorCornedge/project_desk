@@ -1,0 +1,8 @@
+C:\Users\szaboko\source\repos\project_desk\project_desk\bin\Debug\project_desk.exe.config
+C:\Users\szaboko\source\repos\project_desk\project_desk\bin\Debug\project_desk.exe
+C:\Users\szaboko\source\repos\project_desk\project_desk\bin\Debug\project_desk.pdb
+C:\Users\szaboko\source\repos\project_desk\project_desk\obj\Debug\project_desk.csproj.AssemblyReference.cache
+C:\Users\szaboko\source\repos\project_desk\project_desk\obj\Debug\project_desk.csproj.CoreCompileInputs.cache
+C:\Users\szaboko\source\repos\project_desk\project_desk\obj\Debug\project_desk.exe
+C:\Users\szaboko\source\repos\project_desk\project_desk\obj\Debug\project_desk.pdb
+C:\Users\szaboko\source\repos\project_desk\project_desk\obj\Debug\project_desk.exe.config
