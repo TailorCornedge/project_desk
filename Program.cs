@@ -52,7 +52,10 @@ namespace project_desk
                         Console.WriteLine("Érvényesek e-mailok listája");
                         foreach(String e_mail in e_mailok)
                         {
-
+                            if (e_mail.Contains(".") && e_mail.Contains("@"))
+                            {
+                                Console.WriteLine($"{e_mail}");
+                            }
                         }
                         break;
                     default: Console.Clear(); Console.WriteLine("rossz parancs"); break;
@@ -62,3 +65,4 @@ namespace project_desk
         }
     }
 }
+
